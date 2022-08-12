@@ -57,16 +57,16 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
-      pageId: '1630dff4601448b09cadeea0770db615'
+      title: 'Contact',
+      pageId: '34f850c26deb4e9098666ff06e99e1f3'
     },
     {
       title: 'Services',
       pageId: '6e89af819ef743488355d6e7516d1b09'
     },
     {
-      title: 'Contact',
-      pageId: '34f850c26deb4e9098666ff06e99e1f3'
+      title: 'About',
+      pageId: '1630dff4601448b09cadeea0770db615'
     }
   ]
 })
